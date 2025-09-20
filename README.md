@@ -12,22 +12,22 @@ Completed Task
 - ✅ **Delete Todo**: Remove todos with confirmation
 
 ### Mock API Integration
-- 🔄 **Simulated REST API**: Mock API calls with realistic delays
-- ⏱️ **Network Latency**: Simulated delays (400-800ms) for realistic UX
-- 🎲 **Random Failures**: 10% chance of API failures for error handling
-- 📡 **Full CRUD Operations**: GET, POST, PUT, DELETE endpoints
+-  **Simulated REST API**: Mock API calls with realistic delays
+-  **Network Latency**: Simulated delays (400-800ms) for realistic UX
+-  **Random Failures**: 10% chance of API failures for error handling
+-  **Full CRUD Operations**: GET, POST, PUT, DELETE endpoints
 
 ### State Management & UX
-- 🔄 **Loading States**: Spinners and skeleton loaders during API calls
-- ❌ **Error Handling**: Clear error messages with retry functionality
-- 🎯 **Strict Typing**: Comprehensive TypeScript interfaces
-- 🧩 **Component Architecture**: Reusable, well-structured components
-- 📱 **Responsive Design**: Mobile-first design with Tailwind CSS
+-  **Loading States**: Spinners and skeleton loaders during API calls
+-  **Error Handling**: Clear error messages with retry functionality
+-  **Strict Typing**: Comprehensive TypeScript interfaces
+-  **Component Architecture**: Reusable, well-structured components
+-  **Responsive Design**: Mobile-first design with Tailwind CSS
 
 ### React Fundamentals
-- ⚛️ **Modern Hooks**: useState, useEffect, useCallback, useMemo
-- 🔄 **Component Lifecycles**: Proper side effect management
-- 🎨 **Clean Code**: Well-commented, maintainable codebase
+-  **Modern Hooks**: useState, useEffect, useCallback, useMemo
+-  **Component Lifecycles**: Proper side effect management
+-  **Clean Code**: Well-commented, maintainable codebase
 
 ## Tech Stack
 
