@@ -129,9 +129,6 @@ const App: React.FC = () => {
           <h1 className="text-4xl font-bold text-gray-900 mb-2">
             Todo App
           </h1>
-          <p className="text-lg text-gray-600">
-            Manage your tasks with ease using React and TypeScript
-          </p>
         </header>
 
         {/* Error Message */}
